@@ -46,7 +46,3 @@ Press `q` to quit.
 - Uses OpenCV Haar Cascade for detection (fast on Pi)
 - Uses LBPH recognizer (lightweight, suitable for edge devices)
 - Designed for continuous monitoring under resource constraints
-
-## Author
-Salman Tauheed  
-GitHub: [salmantauheed2002](https://github.com/salmantauheed2002)
